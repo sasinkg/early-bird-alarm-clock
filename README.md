@@ -5,7 +5,7 @@ An interactive, mobile alarm clock designed to **force users out of bed** by com
 This project was completed as part of **ECE 445 – Senior Design** (Fall 2022).
 
 ---
-###  Codebase: (Git)[https://github.com/siddharthsharma123/ECE445.git]
+###  Codebase: https://github.com/siddharthsharma123/ECE445.git
 ## 🧠 Motivation
 
 Many people rely on repeated alarms and snoozing, which disrupts sleep cycles and reduces morning alertness. The Early Bird Alarm Clock addresses this by:
