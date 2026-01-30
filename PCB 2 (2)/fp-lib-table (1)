@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "74HC04N")(type "KiCad")(uri "/Users/sasingudipati/Documents/Education/ECE/ECE 445/74HC165/74HC04N")(options "")(descr ""))
+  (lib (name "ABL-16")(type "KiCad")(uri "/Users/sasingudipati/Documents/Education/ECE/ECE 445/74HC165/ABL-16.000MHZ-T")(options "")(descr ""))
+  (lib (name "1x8")(type "KiCad")(uri "/Users/sasingudipati/Documents/Education/ECE/ECE 445/74HC165/1x8")(options "")(descr ""))
+  (lib (name "TSMSMS")(type "KiCad")(uri "/Users/sasingudipati/Documents/Education/ECE/ECE 445/74HC165/TSMSMS")(options "")(descr ""))
+  (lib (name "and")(type "KiCad")(uri "/Users/sasingudipati/Documents/Education/ECE/ECE 445/74HC165/and")(options "")(descr ""))
+  (lib (name "Connector_PinHeader_2.54mm")(type "KiCad")(uri "/Users/sasingudipati/Documents/Education/ECE/ECE 445/74HC165/Connector_PinHeader_2.54mm.pretty")(options "")(descr ""))
+)
